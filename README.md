@@ -32,15 +32,11 @@ https://github.com/SLzDevOps/netology-kubernetes-5/tree/main/task2
 
 
 
-
 ### Задача 3
   
 #### манифест .yaml
 https://github.com/SLzDevOps/netology-kubernetes-5/tree/main/task3
   
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_993.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1006.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_993.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1006.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_993.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1006.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1004.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1005.png).
+
