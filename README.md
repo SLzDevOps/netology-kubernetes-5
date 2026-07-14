@@ -7,18 +7,28 @@
 
 ### Задача 1
 
-#### файлы .yaml
-https://github.com/SLzDevOps/netology-kubernetes-4/tree/main/task1
+#### манифест .yaml
+https://github.com/SLzDevOps/netology-kubernetes-5/tree/main/task1
    
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_976.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_975.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_977.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_978.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_993.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-5/blob/main/screenshots/Screenshot_1006.png).
+      
     
-  
 ### Задача 2
   
-#### файлы .yaml
+#### манифест .yaml
+https://github.com/SLzDevOps/netology-kubernetes-4/tree/main/task2
+  
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_986.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_987.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_988.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_985.png).
+
+
+
+### Задача 3
+  
+#### манифест .yaml
 https://github.com/SLzDevOps/netology-kubernetes-4/tree/main/task2
   
 ![alt text](https://github.com/SLzDevOps/netology-kubernetes-4/blob/main/screenshot/Screenshot_986.png).
