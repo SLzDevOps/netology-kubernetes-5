@@ -2,7 +2,7 @@
 
 ## Ссылка на Д3 - https://github.com/netology-code/kuber-homeworks/blob/shkuber-16/2.1/2.1.md
 
-## Ссылка на репозиторий - 
+## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-kubernetes-5
 
 
 ### Задача 1
